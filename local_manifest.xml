@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/lisa" name="PixelOS-Devices/device_xiaomi_lisa.git" remote="github" revision="twelve" />
+ <project path="vendor/xiaomi/lisa" name="PixelOS-Devices/vendor_xiaomi_lisa.git" remote="github" revision="twelve" />
+ <project path="kernel/xiaomi/lisa" name="PixelOS-Devices/kernel_xiaomi_lisa.git" remote="github" revision="twelve" />
+ 
+</manifest>
